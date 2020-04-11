@@ -1,0 +1,35 @@
+food = "Pizza"
+
+p food
+
+is_delicious = true
+
+p is_delicious
+
+food = "Turkey"
+
+p food
+
+num2 = 5
+
+p num2
+
+num7 = 12
+
+p num7
+
+quotient = num7 / num2
+
+p quotient
+
+songs = ["I Can't Stop", "Level of Concern", "Evergreen"]
+
+p songs
+
+songs.pop
+
+p songs
+
+food.length
+
+p food.length
