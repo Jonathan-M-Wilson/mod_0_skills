@@ -8,7 +8,7 @@
 
 
 **Methods:**
- - add_food_coloring (manipulates soda_color and soda_recipe)
- - add_ingredient (manipulates soda_recipe)
- - refill (manipulates soda_amount)
- - change_bottles (manipulates soda_lid_style)
+ - add_food_coloring (manipulates color and recipe)
+ - add_ingredient (manipulates recipe)
+ - refill (manipulates amount)
+ - change_bottles (manipulates lid_style)

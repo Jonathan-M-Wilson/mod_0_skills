@@ -9,7 +9,8 @@
 
 
 **Methods:**
- - update_template_color (manipulates color attribute)
- - update_template_size (manipulates size_width and size_height)
+ - update_color (manipulates color attribute)
+ - update_size_width (manipulates size_width)
+ - update_size_height (manipulates size_height)
  - add_sides (manipulates side_options integer)
  - add_gl_items (manipulates has_gluten_free boolean)
